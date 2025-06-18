@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Waypoint Points</name>
+
+    <Placemark>
+      <name>Point 1</name>
+      <Point>
+        <coordinates>21.786461,40.306205</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Point 2</name>
+      <Point>
+        <coordinates>21.785819,40.305803</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Point 3</name>
+      <Point>
+        <coordinates>21.786600,40.305507</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Point 4</name>
+      <Point>
+        <coordinates>21.785741,40.305610</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Point 5</name>
+      <Point>
+        <coordinates>21.786106,40.305518</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Point 6</name>
+      <Point>
+        <coordinates>21.786017,40.305523</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Point 7</name>
+      <Point>
+        <coordinates>21.785820,40.305818</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Point 8</name>
+      <Point>
+        <coordinates>21.785782,40.305753</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
